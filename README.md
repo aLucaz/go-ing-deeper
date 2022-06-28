@@ -1,6 +1,6 @@
-# Deeper in Go :peach: :fire:
-Better late than never. This repository is a start point of use Golang. The plan is to go from zero
-to an acceptable point
+# Go-ing deeper :peach: :fire:
+Better late than never. This repository is a start point of use Golang. 
+The plan is to go from zero to production.
 ## Topics
 - Go language
 - Go packages
@@ -10,3 +10,10 @@ to an acceptable point
 - Interfaces
 - Routines
 - Channels
+## Commands
+- go build: compiles
+- go run: compiles and execute
+- go fmt: format code
+- go install: install packages
+- go get: download raw source code
+- go test: run tests
