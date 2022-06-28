@@ -17,3 +17,6 @@ The plan is to go from zero to production.
 - go install: install packages
 - go get: download raw source code
 - go test: run tests
+### Why Go
+It's a concurrent & compiled language, ideal for automation scripting and multicore 
+development.

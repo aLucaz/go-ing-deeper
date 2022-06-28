@@ -29,4 +29,7 @@ func main() {
 		fmt.Println(i, card)
 	}
 
+	// change type
+	greeting := "Hi there"
+	fmt.Print([]byte(greeting))
 }
