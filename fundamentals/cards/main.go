@@ -18,4 +18,6 @@ func main() {
 	}
 	myHand := newDeckFromFile("myhand.txt")
 	myHand.print()
+	myHand.shuffle()
+	myHand.print()
 }
