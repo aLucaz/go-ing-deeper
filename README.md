@@ -4,7 +4,7 @@ The plan is to go from zero to production.
 ## Topics
 - Go language
 - Go packages
-- Data structures
+- Structures & Pointers
 - File organization
 - Maps
 - Interfaces
