@@ -9,6 +9,7 @@ The plan is to go from zero to production.
 - Maps
 - Interfaces
 - Routines
+- Concurrency != Parallelism
 - Channels
 ## Commands
 - go build: compiles
